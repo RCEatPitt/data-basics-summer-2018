@@ -1,6 +1,7 @@
 ---
 title: August Data Basics Workshop
 layout: default
+permalink: /
 
 ---
 
