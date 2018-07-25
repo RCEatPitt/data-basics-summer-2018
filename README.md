@@ -30,10 +30,10 @@ Student Instructors:
 
 ## The Setup
 
-* CRC JupyterHub
-* Reserved Laptops
-* Binder
-* Personal Laptops
+* CRC JupyterHub - You will need to have accounts at the [Center for Research Computing](http://crc.pitt.edu)
+* Preconfigured Laptops - We will have laptops with all the software and content installed and configured.
+* [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RCEatPitt/data-basics-summer-2018/master) - Clicking that link will launch a pre-configured Jupyter environment in the cloud.
+* Personal Laptops - You will need to install the [Anaconda Python Distribution](https://www.anaconda.com/download/)
 
 ## Day One (March 31st)
 
