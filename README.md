@@ -59,7 +59,7 @@ Day two will focus on the Pandas data analysis library.
 
 * [Introduction to data management with Pandas](intro-to-pandas/) (9-noon)
 * Lunch (noon-1pm)
-* [Advanced data managment with Pandas](advanced-pandas/) (1-4pm)
+* [Introduction to data management with Pandas](intro-to-pandas/) (1-4pm)
 
 
 
