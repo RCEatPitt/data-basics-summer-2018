@@ -31,6 +31,7 @@ Student Instructors:
 ## The Setup
 
 * **Bring a laptop (and power)**. You do not need to install any software, everythign will be running in the cloud.
+* We will be using the [Binder](https://mybinder.org/) service for hosting the course.
 
 ## Day One (March 31st)
 
