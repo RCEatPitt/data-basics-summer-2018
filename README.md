@@ -15,7 +15,7 @@ Dates:
 
 Location:
 
-* TBD
+* Information Sciences Building 3rd Floor Quiet Study Room 
 
 
 Lead Instructors:
@@ -25,15 +25,12 @@ Lead Instructors:
 
 Student Instructors:
 
-- TBD
+- Conner Lovejoy (CML120@pitt.edu)
 
 
 ## The Setup
 
-* CRC JupyterHub - You will need to have accounts at the [Center for Research Computing](http://crc.pitt.edu)
-* Preconfigured Laptops - We will have laptops with all the software and content installed and configured.
-* [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RCEatPitt/data-basics-summer-2018/master) - Clicking that link will launch a pre-configured Jupyter environment in the cloud.
-* Personal Laptops - You will need to install the [Anaconda Python Distribution](https://www.anaconda.com/download/)
+* **Bring a laptop (and power)**. You do not need to install any software, everythign will be running in the cloud.
 
 ## Day One (March 31st)
 
@@ -41,7 +38,7 @@ Student Instructors:
 
 Day one will focus on an introduction to the Python programming language.
 
-* Last minute configuration help (8:30-9am)
+* Breakfast (8:30-9am)
 * Welcome and Introductions (9-9:30am)
 * [Data Science with Python](data-science-demo/) & [Jupyter Notebooks](jupyter-notebooks/) (9:30-10:20am)
 * Coffee Break
@@ -57,6 +54,7 @@ Day one will focus on an introduction to the Python programming language.
 
 Day two will focus on the Pandas data analysis library.
 
+* Breakfast (8:30-9am)
 * [Introduction to data management with Pandas](intro-to-pandas/) (9-noon)
 * Lunch (noon-1pm)
 * [Introduction to data management with Pandas](intro-to-pandas/) (1-4pm)
