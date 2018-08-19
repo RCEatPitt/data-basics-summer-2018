@@ -1,5 +1,7 @@
-# A brief introduction to the Jupyter Notebook
+# Diving Into the Notebook
 
-This directory contains materials for getting started with the Jupyter Notebook.
-
-* Please visit [index.ipynb](index.ipynb) to get started.
+- The Python Data Science Ecosystem
+- What is the Jupyter Notebook
+- Notebook Basics
+- Running Code
+- Markdown Cells

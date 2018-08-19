@@ -33,15 +33,15 @@ Student Instructors:
 * **Bring a laptop (and power)**. You do not need to install any software, everythign will be running in the cloud.
 * We will be using the [Binder](https://mybinder.org/) service for hosting the course.
 
-## Day One (March 31st)
+## Day One (August 20th)
 
-9AM-4PM
+8:30AM-4PM
 
 Day one will focus on an introduction to the Python programming language.
 
 * Breakfast (8:30-9am)
 * Welcome and Introductions (9-9:30am)
-* [Data Science with Python](data-science-demo/) & [Jupyter Notebooks](jupyter-notebooks/) (9:30-10:20am)
+* [Intro to Jupyter Notebooks](jupyter-notebooks/) (9:30-10:20am)
 * Coffee Break
 * [Introduction to Python](intro-to-python/) (10:30am-12noon)
 * Lunch (12noon-1pm)
@@ -49,9 +49,9 @@ Day one will focus on an introduction to the Python programming language.
 
 
 
-## Day Two (April 7th)
+## Day Two (August 21st)
 
-9AM-4PM
+8:30AM-4PM
 
 Day two will focus on the Pandas data analysis library.
 
