@@ -33,6 +33,9 @@ Student Instructors:
 * **Bring a laptop (and power)**. You do not need to install any software, everythign will be running in the cloud.
 * We will be using the [Binder](https://mybinder.org/) service for hosting the course.
 
+* **Click here to launch Day One**: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RCEatPitt/data-basics-summer-2018/master)
+
+
 ## Day One (August 20th)
 
 8:30AM-4PM
