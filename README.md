@@ -10,8 +10,8 @@ permalink: /
 This two-day workshop will teach the basics of the Python programming language with a focus on managing data. Day one will introduce Python and the Jupyter Notebook. Day two will introduce Pandas, a library for data management and analysis. Participants will receive hands-on training and leave with introductory knowledge of Python and Pandas.
 
 Dates:
-- **August 21st**: Introduction to Jupyter, & Python
-- **August 22nd**: Introduction to Pandas
+- **August 20th**: Introduction to Jupyter, & Python
+- **August 21st**: Introduction to Pandas
 
 Location:
 
